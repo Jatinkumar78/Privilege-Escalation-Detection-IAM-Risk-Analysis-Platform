@@ -1,0 +1,2 @@
+# IAM-Privilege-Escalation-Detection-Risk-Analysis-Tool
+A web-based security analysis tool that models Identity and Access Management (IAM) as a graph to detect:  Privilege escalation paths  Over-privileged accounts  Conflicting roles (Separation of Duties violations)  MITRE ATT&amp;CK mapped risk insights  Built using Flask + NetworkX with dynamic JSON ingestion and interactive graph visualization.
