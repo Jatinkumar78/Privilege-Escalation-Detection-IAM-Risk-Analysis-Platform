@@ -185,8 +185,8 @@ Intended for educational and research purposes.
 
 ## 👨‍💻 Author & Developer
 
-Your Name - JATIN KUMAR
-            NISARG CHASMAWALA (SHROFF)
+Your Name - JATIN KUMAR ,
+            NISARG CHASMAWALA (SHROFF) ,
             SANTHAKUMAR PARIVALLAL
 Cybersecurity Project – Privilege Escalation Detection & IAM Risk Analysis
 Platform
